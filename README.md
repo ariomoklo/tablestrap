@@ -1,4 +1,6 @@
-# Tablestrap
+# Tablestrap [Depracated]
+#### ⚠ <b style="color:orange">Warning!</b> This repository is not continued
+
 GroceryCRUD bootstrap themes. Modified from original GroceryCRUD datatables theme.
 I created this in my free time. Basicaly I took GroceryCRUD datatables theme and mix it with DataTables bootstrap theme.
 then I added pnotify as a bonus. I don't change some input plugins that GroceryCRUD using like jQuery chosen for select,
