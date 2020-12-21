@@ -1,4 +1,4 @@
-# Tablestrap [Depracated]
+# Tablestrap [Deprecated]
 #### ⚠ <b style="color:orange">Warning!</b> This repository is not continued
 
 GroceryCRUD bootstrap themes. Modified from original GroceryCRUD datatables theme.
